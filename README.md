@@ -1,0 +1,2 @@
+# KannaSpecCalc
+カンナのステータス計算
